@@ -10,14 +10,10 @@ function mostrar()
     contador++;
     var clave = prompt("ingrese el número clave.");
     
-
-    
-    if(contador<4){
-    alert("ha intentado 3 veces.");
-
+    if(contador==2){
+        alert("Se acabaron los intentos");
+        break;
     }
-    break;
-    
  }
 
 
