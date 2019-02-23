@@ -23,7 +23,7 @@ function mostrar()
     }
 
     if(numeros<0){
-     negativo=numeros*numeros;
+     negativo=negativo*numeros;
 
     }
 
