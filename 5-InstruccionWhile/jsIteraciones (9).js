@@ -2,7 +2,7 @@ function mostrar()
 {
 
 
-  var max=0;
+  var max=-Infinity;
   var min=Infinity;
 
 
